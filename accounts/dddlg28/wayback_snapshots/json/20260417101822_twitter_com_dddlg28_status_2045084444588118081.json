@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757979305379041280",
+    "conversation_id": "2044670185509142607",
+    "created_at": "2026-04-17T10:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T11:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045084444588118081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022980944723095552",
+          "start": 0,
+          "username": "tanka_TWT"
+        },
+        {
+          "end": 27,
+          "id": "1951181920022437889",
+          "start": 11,
+          "username": "blackdoginmyhed"
+        },
+        {
+          "end": 41,
+          "id": "1888428282192039936",
+          "start": 28,
+          "username": "babystar1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045084444588118081",
+    "in_reply_to_user_id": "2022980944723095552",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044765459371925575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanka_TWT @blackdoginmyhed @babystar1204"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757979305379041280",
+        "conversation_id": "2044670185509142607",
+        "created_at": "2026-04-17T10:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T11:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045084444588118081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022980944723095552",
+              "start": 0,
+              "username": "tanka_TWT"
+            },
+            {
+              "end": 27,
+              "id": "1951181920022437889",
+              "start": 11,
+              "username": "blackdoginmyhed"
+            },
+            {
+              "end": 41,
+              "id": "1888428282192039936",
+              "start": 28,
+              "username": "babystar1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045084444588118081",
+        "in_reply_to_user_id": "2022980944723095552",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044765459371925575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanka_TWT @blackdoginmyhed @babystar1204"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022980944723095552",
+        "conversation_id": "2044670185509142607",
+        "created_at": "2026-04-16T13:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T14:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044765459371925575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951181920022437889",
+              "start": 0,
+              "username": "blackdoginmyhed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044765459371925575",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044670185509142607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackdoginmyhed 我真的很想要纸烟烟代🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "二世🦖 ｜od🐛｜同类互fo｜请不要和我吵架｜💊od:https://t.co/wr5AXtXm9B｜✈️我推的机场https://t.co/JGTZUvvZcp｜😽心爱的猫:@babystar1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "babystar1204"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 50,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 27,
+                "url": "https://t.co/wr5AXtXm9B"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 58,
+                "url": "https://t.co/JGTZUvvZcp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032874743129583616/IHMulhSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 242,
+          "like_count": 447,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 85
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-15T10:27:07.000Z",
+        "description": "我看著幸福的日子被我親手摧毀後開心地閉上了眼\n丨ptsd 因創傷而躲藏\n丨FOW參與 接受藥物咨詢和投稿\n丨私信解锁魔法糖果菜单\n丨已逝的愛人@Edward_8964\n丨你跟我說這些沒用我只是一只貓 正在努力赚取猫粮🤲\n丨发送口令红包解锁纯绿陪聊\n丨提問https://t.co/Nz6tp4jZsY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 71,
+                "username": "Edward_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hequanjingyin",
+                "end": 150,
+                "expanded_url": "https://ngl.link/hequanjingyin",
+                "start": 127,
+                "url": "https://t.co/Nz6tp4jZsY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org/",
+                "start": 0,
+                "url": "https://t.co/J3Aw5nOZQt"
+              }
+            ]
+          }
+        },
+        "id": "2022980944723095552",
+        "location": "🚪88/188無上限",
+        "name": "滅死炭",
+        "pinned_tweet_id": "2044001535001280694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030628768289812480/IQzPG9VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 305,
+          "like_count": 1767,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 670
+        },
+        "url": "https://t.co/J3Aw5nOZQt",
+        "username": "tanka_TWT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条还有杆蛋都有! 悦刻注油空蛋9r一个",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 231,
+          "like_count": 1429,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 443
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T03:22:53.000Z",
+        "description": "他只是⋯轻轻地、慢慢地、摸着小小的猫。\n猫从没感觉过这样的暖，比太阳晒在背上还要安心。\n猫悄悄地想，\n这个暖暖的东西@dddlg28 可以当我的家吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "dddlg28"
+              }
+            ]
+          }
+        },
+        "id": "1888428282192039936",
+        "location": "终焉审判   降临",
+        "name": "生日快杀",
+        "pinned_tweet_id": "2036080668086845524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037382250741035008/ItkWlcKb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 51,
+          "like_count": 520,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 318
+        },
+        "username": "babystar1204",
+        "verified": false
+      }
+    ]
+  }
+}

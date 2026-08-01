@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757979305379041280",
+    "conversation_id": "2034655287475577106",
+    "created_at": "2026-03-19T16:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T17:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034672871629537450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1920704053031694336",
+          "start": 0,
+          "username": "Abel_akun"
+        },
+        {
+          "end": 24,
+          "id": "1888428282192039936",
+          "start": 11,
+          "username": "babystar1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034672871629537450",
+    "in_reply_to_user_id": "1920704053031694336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034671007328510157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Abel_akun @babystar1204 双标标志🤬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757979305379041280",
+        "conversation_id": "2034655287475577106",
+        "created_at": "2026-03-19T16:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T17:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034672871629537450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1920704053031694336",
+              "start": 0,
+              "username": "Abel_akun"
+            },
+            {
+              "end": 24,
+              "id": "1888428282192039936",
+              "start": 11,
+              "username": "babystar1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034672871629537450",
+        "in_reply_to_user_id": "1920704053031694336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034671007328510157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Abel_akun @babystar1204 双标标志🤬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920704053031694336",
+        "conversation_id": "2034655287475577106",
+        "created_at": "2026-03-19T16:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T17:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034671007328510157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1888428282192039936",
+              "start": 0,
+              "username": "babystar1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034671007328510157",
+        "in_reply_to_user_id": "1888428282192039936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034666379052494852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babystar1204 发🐴！必须安排一瓶喝下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "🦖 ｜od🐛｜同类互fo｜🚫不卖任何东西｜请不要和我吵架｜💊od:https://t.co/wr5AXtXm9B｜✈️我推的机场https://t.co/JGTZUvvZcp｜🐣宝宝:@babystar1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "babystar1204"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 56,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 33,
+                "url": "https://t.co/wr5AXtXm9B"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 87,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 64,
+                "url": "https://t.co/JGTZUvvZcp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "name": "多拉贡二世",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032874743129583616/IHMulhSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 177,
+          "like_count": 117,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T04:55:19.000Z",
+        "description": "09 一条蛆 不会弹吉他",
+        "id": "1920704053031694336",
+        "location": "Japan",
+        "name": "Abel",
+        "pinned_tweet_id": "2024564803248021800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028191039799037952/mVh74C4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 69,
+          "like_count": 1008,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 609
+        },
+        "username": "Abel_akun",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T03:22:53.000Z",
+        "description": "在变了样的世界里，唯一一个和我有共同回忆的人 @dddlg28 ｜贡的主人｜ ONE OK ROCK全肯定｜请求互fo🫶🏻｜匿名提问https://t.co/MoZOh7d0Lu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "dddlg28"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/szl281",
+                "end": 89,
+                "expanded_url": "https://ngl.link/szl281",
+                "start": 66,
+                "url": "https://t.co/MoZOh7d0Lu"
+              }
+            ]
+          }
+        },
+        "id": "1888428282192039936",
+        "name": "我今天回去就跟你妈把婚离了",
+        "pinned_tweet_id": "1962081609215324262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034188935388348416/MYHZY1ry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 44,
+          "like_count": 324,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 343
+        },
+        "username": "babystar1204",
+        "verified": false
+      }
+    ]
+  }
+}

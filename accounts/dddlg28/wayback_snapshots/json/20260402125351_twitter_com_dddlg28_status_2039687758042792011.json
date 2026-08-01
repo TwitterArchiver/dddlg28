@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2039007377907986432"
+      ],
+      "media_source_tweet_id": [
+        "2039007425676927145"
+      ]
+    },
+    "author_id": "1757979305379041280",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2039687758042792011",
+    "created_at": "2026-04-02T12:53:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T13:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039687758042792011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029908828125548546",
+          "start": 3,
+          "username": "bui_tu46916"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kps5JzvRze",
+          "end": 60,
+          "expanded_url": "https://x.com/bui_tu46916/status/2039007425676927145/video/1",
+          "media_key": "7_2039007377907986432",
+          "start": 37,
+          "url": "https://t.co/Kps5JzvRze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039687758042792011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039007425676927145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bui_tu46916: The overdose  愚人节快乐 https://t.co/Kps5JzvRze"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35015,
+        "height": 720,
+        "media_key": "7_2039007377907986432",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2039007377907986432/pu/img/9TuY6dnjjktXvJcO.jpg",
+        "public_metrics": {
+          "view_count": 4811
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039007377907986432/pu/vid/avc1/480x270/PGS1MSjFmVViNo5n.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039007377907986432/pu/vid/avc1/640x360/4QhyF26yPTQr9Pss.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039007377907986432/pu/vid/avc1/1280x720/-EphIjWL9wgxcDOG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2039007377907986432/pu/pl/gXlYPIkwoHBWUMp7.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2039007377907986432"
+          ],
+          "media_source_tweet_id": [
+            "2039007425676927145"
+          ]
+        },
+        "author_id": "1757979305379041280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2039687758042792011",
+        "created_at": "2026-04-02T12:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039687758042792011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029908828125548546",
+              "start": 3,
+              "username": "bui_tu46916"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kps5JzvRze",
+              "end": 60,
+              "expanded_url": "https://x.com/bui_tu46916/status/2039007425676927145/video/1",
+              "media_key": "7_2039007377907986432",
+              "start": 37,
+              "url": "https://t.co/Kps5JzvRze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039687758042792011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039007425676927145",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bui_tu46916: The overdose  愚人节快乐 https://t.co/Kps5JzvRze"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2039007377907986432"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2039007425676927145",
+        "created_at": "2026-03-31T15:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039007425676927145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kps5JzvRze",
+              "end": 43,
+              "expanded_url": "https://x.com/bui_tu46916/status/2039007425676927145/video/1",
+              "media_key": "7_2039007377907986432",
+              "start": 20,
+              "url": "https://t.co/Kps5JzvRze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039007425676927145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 11577,
+          "like_count": 518,
+          "quote_count": 11,
+          "reply_count": 5,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "The overdose  愚人节快乐 https://t.co/Kps5JzvRze"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "二世🦖 ｜od🐛｜同类互fo｜请不要和我吵架｜💊od:https://t.co/wr5AXtXm9B｜✈️我推的机场https://t.co/JGTZUvvZcp｜🐣喜欢的人:@babystar1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "babystar1204"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 50,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 27,
+                "url": "https://t.co/wr5AXtXm9B"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 58,
+                "url": "https://t.co/JGTZUvvZcp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032874743129583616/IHMulhSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 221,
+          "like_count": 314,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2037056043453432137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 151,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 373
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

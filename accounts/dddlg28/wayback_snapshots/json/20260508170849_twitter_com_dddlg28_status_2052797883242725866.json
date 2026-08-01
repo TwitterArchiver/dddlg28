@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757979305379041280",
+    "conversation_id": "2052430871425360148",
+    "created_at": "2026-05-08T17:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052797883242725866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1551813602553757697",
+          "start": 0,
+          "username": "mimi_VnV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052797883242725866",
+    "in_reply_to_user_id": "1551813602553757697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052430871425360148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimi_VnV 你买烟弹吗👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757979305379041280",
+        "conversation_id": "2052430871425360148",
+        "created_at": "2026-05-08T17:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052797883242725866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1551813602553757697",
+              "start": 0,
+              "username": "mimi_VnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052797883242725866",
+        "in_reply_to_user_id": "1551813602553757697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052430871425360148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimi_VnV 你买烟弹吗👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551813602553757697",
+        "conversation_id": "2052430871425360148",
+        "created_at": "2026-05-07T16:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052430871425360148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052430871425360148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "塔太好玩了😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "二世🦖 ｜od🐛｜同类互fo｜请不要和我吵架｜💊od:https://t.co/wr5AXtXm9B｜✈️我推的机场https://t.co/JGTZUvvZcp｜😽心爱的猫:@babystar1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "babystar1204"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 50,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 27,
+                "url": "https://t.co/wr5AXtXm9B"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 58,
+                "url": "https://t.co/JGTZUvvZcp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032874743129583616/IHMulhSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 273,
+          "like_count": 539,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T06:16:28.000Z",
+        "description": "天才｜舞萌 osu 喵斯｜下头屎屁尿小孩\n                                          三次绕道喵😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vnv_mimi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vnv_mimi",
+                "start": 0,
+                "url": "https://t.co/g9bldFhSZO"
+              }
+            ]
+          }
+        },
+        "id": "1551813602553757697",
+        "location": "雾之湖",
+        "name": "离离原上咪",
+        "pinned_tweet_id": "1999555259333497156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040858759883595776/ozwNkVkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 720,
+          "like_count": 28697,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 7593
+        },
+        "url": "https://t.co/g9bldFhSZO",
+        "username": "mimi_VnV",
+        "verified": false
+      }
+    ]
+  }
+}

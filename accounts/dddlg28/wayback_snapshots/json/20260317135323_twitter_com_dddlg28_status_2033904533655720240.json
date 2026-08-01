@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033899600755769344"
+      ],
+      "media_source_tweet_id": [
+        "2033899613711962256"
+      ]
+    },
+    "author_id": "1757979305379041280",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2033904533655720240",
+    "created_at": "2026-03-17T13:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T14:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033904533655720240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2033892007937249284",
+          "start": 3,
+          "username": "Garasu_Lab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CkH1bMv8SN",
+          "end": 72,
+          "expanded_url": "https://x.com/Garasu_Lab/status/2033899613711962256/photo/1",
+          "media_key": "3_2033899600755769344",
+          "start": 49,
+          "url": "https://t.co/CkH1bMv8SN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033904533655720240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033899613711962256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Garasu_Lab: 🧊 Garasu的神秘元素商店 | Project Launch https://t.co/CkH1bMv8SN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033899600755769344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnc6SvbQAAOAxj.jpg",
+        "width": 1250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033899600755769344"
+          ],
+          "media_source_tweet_id": [
+            "2033899613711962256"
+          ]
+        },
+        "author_id": "1757979305379041280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033904533655720240",
+        "created_at": "2026-03-17T13:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033904533655720240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2033892007937249284",
+              "start": 3,
+              "username": "Garasu_Lab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CkH1bMv8SN",
+              "end": 72,
+              "expanded_url": "https://x.com/Garasu_Lab/status/2033899613711962256/photo/1",
+              "media_key": "3_2033899600755769344",
+              "start": 49,
+              "url": "https://t.co/CkH1bMv8SN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033904533655720240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033899613711962256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Garasu_Lab: 🧊 Garasu的神秘元素商店 | Project Launch https://t.co/CkH1bMv8SN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033899600755769344"
+          ]
+        },
+        "author_id": "2033892007937249284",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033899613711962256",
+        "created_at": "2026-03-17T13:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033899613711962256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CkH1bMv8SN",
+              "end": 56,
+              "expanded_url": "https://x.com/Garasu_Lab/status/2033899613711962256/photo/1",
+              "media_key": "3_2033899600755769344",
+              "start": 33,
+              "url": "https://t.co/CkH1bMv8SN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033899613711962256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 142,
+          "like_count": 1,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "🧊 Garasu的神秘元素商店 | Project Launch https://t.co/CkH1bMv8SN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "🦖 ｜od🐛｜同类互fo｜🚫不卖任何东西｜请不要和我吵架｜💊od:https://t.co/wr5AXtXm9B｜✈️我推的机场https://t.co/JGTZUvvZcp｜🐣宝宝:@babystar1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "babystar1204"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 56,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 33,
+                "url": "https://t.co/wr5AXtXm9B"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 87,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 64,
+                "url": "https://t.co/JGTZUvvZcp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "name": "多拉贡二世",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032874743129583616/IHMulhSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 160,
+          "like_count": 79,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-17T13:04:15.000Z",
+        "description": "Garasu的神秘元素商店！",
+        "id": "2033892007937249284",
+        "location": "Carina",
+        "name": "Garasu's Elemental",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033894335469785089/KTNEcpAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 15,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "Garasu_Lab",
+        "verified": false
+      }
+    ]
+  }
+}

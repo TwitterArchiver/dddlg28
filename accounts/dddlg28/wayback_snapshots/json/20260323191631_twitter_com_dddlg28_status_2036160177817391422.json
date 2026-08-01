@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757979305379041280",
+    "conversation_id": "2036159455700853105",
+    "created_at": "2026-03-23T19:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T20:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036160177817391422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1888428282192039936",
+          "start": 0,
+          "username": "babystar1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036160177817391422",
+    "in_reply_to_user_id": "1888428282192039936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036159455700853105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babystar1204 喊多拉贡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757979305379041280",
+        "conversation_id": "2036159455700853105",
+        "created_at": "2026-03-23T19:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T20:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036160177817391422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1888428282192039936",
+              "start": 0,
+              "username": "babystar1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036160177817391422",
+        "in_reply_to_user_id": "1888428282192039936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036159455700853105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babystar1204 喊多拉贡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888428282192039936",
+        "conversation_id": "2036159455700853105",
+        "created_at": "2026-03-23T19:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T20:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036159455700853105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036159455700853105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拥有母爱的人会在受伤的时候大喊妈妈我痛，但我能喊谁呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "二世🦖 ｜od🐛｜同类互fo｜请不要和我吵架｜💊od:https://t.co/wr5AXtXm9B｜✈️我推的机场https://t.co/JGTZUvvZcp｜🐣宝宝:@babystar1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 86,
+                "username": "babystar1204"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 50,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 27,
+                "url": "https://t.co/wr5AXtXm9B"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 58,
+                "url": "https://t.co/JGTZUvvZcp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032874743129583616/IHMulhSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 193,
+          "like_count": 186,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T03:22:53.000Z",
+        "description": "@dddlg28 让我们一起拥有一个无尽的梦想吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "dddlg28"
+              }
+            ]
+          }
+        },
+        "id": "1888428282192039936",
+        "name": "我今天回去就跟你妈把婚离了",
+        "pinned_tweet_id": "2036080668086845524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035000609649434624/TJbK-yRb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 45,
+          "like_count": 367,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 391
+        },
+        "username": "babystar1204",
+        "verified": false
+      }
+    ]
+  }
+}

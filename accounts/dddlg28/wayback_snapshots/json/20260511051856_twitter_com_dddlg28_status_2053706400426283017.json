@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757979305379041280",
+    "conversation_id": "2053460639990071333",
+    "created_at": "2026-05-11T05:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T06:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053706400426283017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1888428282192039936",
+          "start": 0,
+          "username": "babystar1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053706400426283017",
+    "in_reply_to_user_id": "1888428282192039936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053460639990071333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babystar1204 我跟老婆享福啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 581,
+        "media_key": "3_2053460628971642880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9bj_Ya4AA2kN-.jpg",
+        "width": 1575
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757979305379041280",
+        "conversation_id": "2053460639990071333",
+        "created_at": "2026-05-11T05:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053706400426283017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1888428282192039936",
+              "start": 0,
+              "username": "babystar1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053706400426283017",
+        "in_reply_to_user_id": "1888428282192039936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053460639990071333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babystar1204 我跟老婆享福啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053460628971642880"
+          ]
+        },
+        "author_id": "1888428282192039936",
+        "conversation_id": "2053460639990071333",
+        "created_at": "2026-05-10T13:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053460639990071333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mphTcjqIRy",
+              "end": 53,
+              "expanded_url": "https://x.com/babystar1204/status/2053460639990071333/photo/1",
+              "media_key": "3_2053460628971642880",
+              "start": 30,
+              "url": "https://t.co/mphTcjqIRy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053460639990071333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卖电子烟赚钱给老公买杯子day3\n具体口味需要敲我确认库存 https://t.co/mphTcjqIRy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "二世🦖 ｜od🐛｜同类互fo｜请不要和我吵架｜💊od:https://t.co/wr5AXtXm9B｜✈️我推的机场https://t.co/JGTZUvvZcp｜😽心爱的猫:@babystar1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "babystar1204"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 50,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 27,
+                "url": "https://t.co/wr5AXtXm9B"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 58,
+                "url": "https://t.co/JGTZUvvZcp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032874743129583616/IHMulhSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 271,
+          "like_count": 539,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 111
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T03:22:53.000Z",
+        "description": "他只是⋯轻轻地、慢慢地、摸着小小的猫。\n猫从没感觉过这样的暖，比太阳晒在背上还要安心。\n猫悄悄地想，\n这个暖暖的东西@dddlg28 可以当我的家吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "dddlg28"
+              }
+            ]
+          }
+        },
+        "id": "1888428282192039936",
+        "location": "终焉审判   降临",
+        "name": "生日快杀（纸烟电子烟🈶）",
+        "pinned_tweet_id": "2053460639990071333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053368656109948928/C8JAMyQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 73,
+          "like_count": 579,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 390
+        },
+        "username": "babystar1204",
+        "verified": false
+      }
+    ]
+  }
+}

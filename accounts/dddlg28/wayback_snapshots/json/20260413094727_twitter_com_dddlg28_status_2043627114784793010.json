@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043627111290957825",
+        "3_2043627110259216384",
+        "3_2043627109617455104"
+      ]
+    },
+    "author_id": "1757979305379041280",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2043627114784793010",
+    "created_at": "2026-04-13T09:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T10:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043627114784793010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 24,
+          "id": "1888428282192039936",
+          "start": 11,
+          "username": "babystar1204"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kxwPSYp0i1",
+          "end": 49,
+          "expanded_url": "https://x.com/dddlg28/status/2043627114784793010/photo/1",
+          "media_key": "3_2043627111290957825",
+          "start": 26,
+          "url": "https://t.co/kxwPSYp0i1"
+        },
+        {
+          "display_url": "pic.x.com/kxwPSYp0i1",
+          "end": 49,
+          "expanded_url": "https://x.com/dddlg28/status/2043627114784793010/photo/1",
+          "media_key": "3_2043627110259216384",
+          "start": 26,
+          "url": "https://t.co/kxwPSYp0i1"
+        },
+        {
+          "display_url": "pic.x.com/kxwPSYp0i1",
+          "end": 49,
+          "expanded_url": "https://x.com/dddlg28/status/2043627114784793010/photo/1",
+          "media_key": "3_2043627109617455104",
+          "start": 26,
+          "url": "https://t.co/kxwPSYp0i1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043627114784793010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "非常好礼物 爱来自诗织@babystar1204😽 https://t.co/kxwPSYp0i1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2043627111290957825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxsB7Xa8AEo6JE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043627110259216384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxsB3hb0AAmp2B.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1919,
+        "media_key": "3_2043627109617455104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxsB1IbUAAUj0U.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043627111290957825",
+            "3_2043627110259216384",
+            "3_2043627109617455104"
+          ]
+        },
+        "author_id": "1757979305379041280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2043627114784793010",
+        "created_at": "2026-04-13T09:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T10:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043627114784793010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1888428282192039936",
+              "start": 11,
+              "username": "babystar1204"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxwPSYp0i1",
+              "end": 49,
+              "expanded_url": "https://x.com/dddlg28/status/2043627114784793010/photo/1",
+              "media_key": "3_2043627111290957825",
+              "start": 26,
+              "url": "https://t.co/kxwPSYp0i1"
+            },
+            {
+              "display_url": "pic.x.com/kxwPSYp0i1",
+              "end": 49,
+              "expanded_url": "https://x.com/dddlg28/status/2043627114784793010/photo/1",
+              "media_key": "3_2043627110259216384",
+              "start": 26,
+              "url": "https://t.co/kxwPSYp0i1"
+            },
+            {
+              "display_url": "pic.x.com/kxwPSYp0i1",
+              "end": 49,
+              "expanded_url": "https://x.com/dddlg28/status/2043627114784793010/photo/1",
+              "media_key": "3_2043627109617455104",
+              "start": 26,
+              "url": "https://t.co/kxwPSYp0i1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043627114784793010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常好礼物 爱来自诗织@babystar1204😽 https://t.co/kxwPSYp0i1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "二世🦖 ｜od🐛｜同类互fo｜请不要和我吵架｜💊od:https://t.co/wr5AXtXm9B｜✈️我推的机场https://t.co/JGTZUvvZcp｜😽心爱的猫:@babystar1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "babystar1204"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 50,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 27,
+                "url": "https://t.co/wr5AXtXm9B"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 58,
+                "url": "https://t.co/JGTZUvvZcp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032874743129583616/IHMulhSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 222,
+          "like_count": 394,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 75
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T03:22:53.000Z",
+        "description": "他只是⋯轻轻地、慢慢地、摸着小小的猫。\n猫从没感觉过这样的暖，比太阳晒在背上还要安心。\n猫悄悄地想，\n这个暖暖的东西@dddlg28 可以当我的家吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "dddlg28"
+              }
+            ]
+          }
+        },
+        "id": "1888428282192039936",
+        "location": "终焉审判   降临",
+        "name": "生日快杀",
+        "pinned_tweet_id": "2036080668086845524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037382250741035008/ItkWlcKb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 46,
+          "like_count": 507,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 296
+        },
+        "username": "babystar1204",
+        "verified": false
+      }
+    ]
+  }
+}

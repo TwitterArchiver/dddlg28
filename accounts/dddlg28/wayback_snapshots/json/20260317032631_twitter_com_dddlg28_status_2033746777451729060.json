@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757979305379041280",
+    "conversation_id": "2033537501651144990",
+    "created_at": "2026-03-17T03:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T04:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033746777451729060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1888428282192039936",
+          "start": 0,
+          "username": "babystar1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033746777451729060",
+    "in_reply_to_user_id": "1888428282192039936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033537501651144990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babystar1204 我是，，标志？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033537043134062592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDiTKqWaoAA0gHT.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757979305379041280",
+        "conversation_id": "2033537501651144990",
+        "created_at": "2026-03-17T03:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033746777451729060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1888428282192039936",
+              "start": 0,
+              "username": "babystar1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033746777451729060",
+        "in_reply_to_user_id": "1888428282192039936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033537501651144990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babystar1204 我是，，标志？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033537043134062592"
+          ]
+        },
+        "author_id": "1888428282192039936",
+        "conversation_id": "2033537501651144990",
+        "created_at": "2026-03-16T13:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033537501651144990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NYRDvGewcl",
+              "end": 57,
+              "expanded_url": "https://x.com/babystar1204/status/2033537501651144990/photo/1",
+              "media_key": "3_2033537043134062592",
+              "start": 34,
+              "url": "https://t.co/NYRDvGewcl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033537501651144990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死我了吧…吃玉米大了根本看不清手机屏幕，给此狗打出一些奇怪的东西 https://t.co/NYRDvGewcl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "🦖 ｜od🐛｜同类互fo｜🚫不卖任何东西｜请不要和我吵架｜💊od:https://t.co/wr5AXtXm9B｜✈️我推的机场https://t.co/JGTZUvvZcp｜🐣宝宝:@babystar1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "babystar1204"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 56,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 33,
+                "url": "https://t.co/wr5AXtXm9B"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 87,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 64,
+                "url": "https://t.co/JGTZUvvZcp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "name": "多拉贡二世",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032874743129583616/IHMulhSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T03:22:53.000Z",
+        "description": "在变了样的世界里，唯一一个和我有共同回忆的人 @dddlg28 |多拉贡梦女｜ ONE OK ROCK全肯定｜请求互fo🫶🏻｜匿名提问https://t.co/MoZOh7d0Lu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "dddlg28"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/szl281",
+                "end": 90,
+                "expanded_url": "https://ngl.link/szl281",
+                "start": 67,
+                "url": "https://t.co/MoZOh7d0Lu"
+              }
+            ]
+          }
+        },
+        "id": "1888428282192039936",
+        "name": "我今天回去就跟你妈把婚离了",
+        "pinned_tweet_id": "1962081609215324262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004573979886178304/aiijHy_Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 39,
+          "like_count": 310,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 324
+        },
+        "username": "babystar1204",
+        "verified": false
+      }
+    ]
+  }
+}

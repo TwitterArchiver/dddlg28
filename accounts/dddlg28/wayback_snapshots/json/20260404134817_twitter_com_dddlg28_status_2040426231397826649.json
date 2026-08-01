@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757979305379041280",
+    "conversation_id": "2040426231397826649",
+    "created_at": "2026-04-04T13:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T14:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040426231397826649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/babystar1204/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/babystar1204/status/2040410247517667406",
+          "start": 6,
+          "url": "https://t.co/FGD45VzWoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040426231397826649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040410247517667406",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁对象？！ https://t.co/FGD45VzWoi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2040410187350376448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFD-QT0bgAAXnsZ.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757979305379041280",
+        "conversation_id": "2040426231397826649",
+        "created_at": "2026-04-04T13:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T14:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040426231397826649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/babystar1204/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/babystar1204/status/2040410247517667406",
+              "start": 6,
+              "url": "https://t.co/FGD45VzWoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040426231397826649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040410247517667406",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁对象？！ https://t.co/FGD45VzWoi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040410187350376448"
+          ]
+        },
+        "author_id": "1888428282192039936",
+        "conversation_id": "2040410247517667406",
+        "created_at": "2026-04-04T12:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T13:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040410247517667406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7o5XuQSXoL",
+              "end": 29,
+              "expanded_url": "https://x.com/babystar1204/status/2040410247517667406/photo/1",
+              "media_key": "3_2040410187350376448",
+              "start": 6,
+              "url": "https://t.co/7o5XuQSXoL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040410247517667406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是谁？！ https://t.co/7o5XuQSXoL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "二世🦖 ｜od🐛｜同类互fo｜请不要和我吵架｜💊od:https://t.co/wr5AXtXm9B｜✈️我推的机场https://t.co/JGTZUvvZcp｜🐣喜欢的人:@babystar1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "babystar1204"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 50,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 27,
+                "url": "https://t.co/wr5AXtXm9B"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 58,
+                "url": "https://t.co/JGTZUvvZcp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032874743129583616/IHMulhSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 222,
+          "like_count": 334,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 67
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T03:22:53.000Z",
+        "description": "@dddlg28 :3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "dddlg28"
+              }
+            ]
+          }
+        },
+        "id": "1888428282192039936",
+        "location": "终焉审判   降临",
+        "name": "生日快杀",
+        "pinned_tweet_id": "2036080668086845524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037382250741035008/ItkWlcKb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 46,
+          "like_count": 453,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 265
+        },
+        "username": "babystar1204",
+        "verified": false
+      }
+    ]
+  }
+}

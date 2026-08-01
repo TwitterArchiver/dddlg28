@@ -1,0 +1,29 @@
+{
+  "name": "多拉贡",
+  "username": "@dddlg28",
+  "bio": "二世🦖 ｜od🐛｜同类互fo｜请不要和我吵架｜💊od:https://t.me/ddddlg29｜✈️我推的机场https://g-1.smjcdh.top/#/register?code=fhNKERaM｜偶尔是诗",
+  "location": "",
+  "link": "http://t.me/zssl29",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "urls": [
+      {
+        "display_url": "t.me/ddddlg29",
+        "end": 50,
+        "expanded_url": "https://t.me/ddddlg29",
+        "start": 27,
+        "url": "https://t.co/wr5AXtXm9B"
+      },
+      {
+        "display_url": "g-1.smjcdh.top/#/register?cod…",
+        "end": 81,
+        "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+        "start": 58,
+        "url": "https://t.co/JGTZUvvZcp"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2077619556290613248/0HCDYJXy_normal.jpg"
+}

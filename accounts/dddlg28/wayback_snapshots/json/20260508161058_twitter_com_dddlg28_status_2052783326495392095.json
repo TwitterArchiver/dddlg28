@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052783323479756800",
+        "3_2052783324050120704",
+        "3_2052783323953692672"
+      ]
+    },
+    "author_id": "1757979305379041280",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052779681485865275",
+    "created_at": "2026-05-08T16:10:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052783326495392095"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EG8QBdlU5a",
+          "end": 23,
+          "expanded_url": "https://x.com/dddlg28/status/2052783326495392095/photo/1",
+          "media_key": "3_2052783323479756800",
+          "start": 0,
+          "url": "https://t.co/EG8QBdlU5a"
+        },
+        {
+          "display_url": "pic.x.com/EG8QBdlU5a",
+          "end": 23,
+          "expanded_url": "https://x.com/dddlg28/status/2052783326495392095/photo/1",
+          "media_key": "3_2052783324050120704",
+          "start": 0,
+          "url": "https://t.co/EG8QBdlU5a"
+        },
+        {
+          "display_url": "pic.x.com/EG8QBdlU5a",
+          "end": 23,
+          "expanded_url": "https://x.com/dddlg28/status/2052783326495392095/photo/1",
+          "media_key": "3_2052783323953692672",
+          "start": 0,
+          "url": "https://t.co/EG8QBdlU5a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052783326495392095",
+    "in_reply_to_user_id": "1757979305379041280",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052779681485865275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/EG8QBdlU5a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052783323479756800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzzjnzbUAABM3c.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052783324050120704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzzjp7aYAA82Le.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052783323953692672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzzjpkbAAAZEAl.jpg",
+        "width": 931
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2052779679002841088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzwPfEa0AAw_78.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052783323479756800",
+            "3_2052783324050120704",
+            "3_2052783323953692672"
+          ]
+        },
+        "author_id": "1757979305379041280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052779681485865275",
+        "created_at": "2026-05-08T16:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052783326495392095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EG8QBdlU5a",
+              "end": 23,
+              "expanded_url": "https://x.com/dddlg28/status/2052783326495392095/photo/1",
+              "media_key": "3_2052783323479756800",
+              "start": 0,
+              "url": "https://t.co/EG8QBdlU5a"
+            },
+            {
+              "display_url": "pic.x.com/EG8QBdlU5a",
+              "end": 23,
+              "expanded_url": "https://x.com/dddlg28/status/2052783326495392095/photo/1",
+              "media_key": "3_2052783324050120704",
+              "start": 0,
+              "url": "https://t.co/EG8QBdlU5a"
+            },
+            {
+              "display_url": "pic.x.com/EG8QBdlU5a",
+              "end": 23,
+              "expanded_url": "https://x.com/dddlg28/status/2052783326495392095/photo/1",
+              "media_key": "3_2052783323953692672",
+              "start": 0,
+              "url": "https://t.co/EG8QBdlU5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052783326495392095",
+        "in_reply_to_user_id": "1757979305379041280",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052779681485865275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/EG8QBdlU5a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052779679002841088"
+          ]
+        },
+        "author_id": "1757979305379041280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052779681485865275",
+        "created_at": "2026-05-08T15:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052779681485865275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 43,
+              "id": "1888428282192039936",
+              "start": 30,
+              "username": "babystar1204"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z2SFYTVFxy",
+              "end": 67,
+              "expanded_url": "https://x.com/dddlg28/status/2052779681485865275/photo/1",
+              "media_key": "3_2052779679002841088",
+              "start": 44,
+              "url": "https://t.co/z2SFYTVFxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052779681485865275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽了之后爽爽的东西😸\n买电子烟可以找她 比其他烟代便宜好多😺@babystar1204 https://t.co/z2SFYTVFxy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "二世🦖 ｜od🐛｜同类互fo｜请不要和我吵架｜💊od:https://t.co/wr5AXtXm9B｜✈️我推的机场https://t.co/JGTZUvvZcp｜😽心爱的猫:@babystar1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "babystar1204"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 50,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 27,
+                "url": "https://t.co/wr5AXtXm9B"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 58,
+                "url": "https://t.co/JGTZUvvZcp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032874743129583616/IHMulhSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 273,
+          "like_count": 539,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 102
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false
+      }
+    ]
+  }
+}

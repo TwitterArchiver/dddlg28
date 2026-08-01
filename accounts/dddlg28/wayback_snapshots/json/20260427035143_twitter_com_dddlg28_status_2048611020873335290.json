@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048584702609813504"
+      ],
+      "media_source_tweet_id": [
+        "2048584723413483845"
+      ]
+    },
+    "author_id": "1757979305379041280",
+    "conversation_id": "2048611020873335290",
+    "created_at": "2026-04-27T03:51:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T04:51:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048611020873335290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1888428282192039936",
+          "start": 3,
+          "username": "babystar1204"
+        },
+        {
+          "end": 42,
+          "id": "1757979305379041280",
+          "start": 34,
+          "username": "dddlg28"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mKCoOJkH1s",
+          "end": 66,
+          "expanded_url": "https://x.com/babystar1204/status/2048584723413483845/photo/1",
+          "media_key": "3_2048584702609813504",
+          "start": 43,
+          "url": "https://t.co/mKCoOJkH1s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048611020873335290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048584723413483845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @babystar1204: 我很想陪你走很远的路，你明不明白@dddlg28 https://t.co/mKCoOJkH1s"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2048611020873335290].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2048611020873335290",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2048611020873335290"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048584702609813504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4I7uNbcAAmV3C.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048584702609813504"
+          ]
+        },
+        "author_id": "1888428282192039936",
+        "conversation_id": "2048584723413483845",
+        "created_at": "2026-04-27T02:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048584723413483845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1757979305379041280",
+              "start": 16,
+              "username": "dddlg28"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mKCoOJkH1s",
+              "end": 48,
+              "expanded_url": "https://x.com/babystar1204/status/2048584723413483845/photo/1",
+              "media_key": "3_2048584702609813504",
+              "start": 25,
+              "url": "https://t.co/mKCoOJkH1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048584723413483845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我很想陪你走很远的路，你明不明白@dddlg28 https://t.co/mKCoOJkH1s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "二世🦖 ｜od🐛｜同类互fo｜请不要和我吵架｜💊od:https://t.co/wr5AXtXm9B｜✈️我推的机场https://t.co/JGTZUvvZcp｜😽心爱的猫:@babystar1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "babystar1204"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 50,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 27,
+                "url": "https://t.co/wr5AXtXm9B"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 58,
+                "url": "https://t.co/JGTZUvvZcp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032874743129583616/IHMulhSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 265,
+          "like_count": 520,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 95
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T03:22:53.000Z",
+        "description": "他只是⋯轻轻地、慢慢地、摸着小小的猫。\n猫从没感觉过这样的暖，比太阳晒在背上还要安心。\n猫悄悄地想，\n这个暖暖的东西@dddlg28 可以当我的家吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "dddlg28"
+              }
+            ]
+          }
+        },
+        "id": "1888428282192039936",
+        "location": "终焉审判   降临",
+        "name": "生日快杀",
+        "pinned_tweet_id": "2045807068951790001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037382250741035008/ItkWlcKb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 65,
+          "like_count": 560,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 362
+        },
+        "username": "babystar1204",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2038529608270958592"
+      ],
+      "media_source_tweet_id": [
+        "2038529727703765259"
+      ]
+    },
+    "author_id": "1757979305379041280",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2039748640064070086",
+    "created_at": "2026-04-02T16:55:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T17:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039748640064070086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1888428282192039936",
+          "start": 3,
+          "username": "babystar1204"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EUS52vts6i",
+          "end": 47,
+          "expanded_url": "https://x.com/babystar1204/status/2038529727703765259/video/1",
+          "media_key": "13_2038529608270958592",
+          "start": 24,
+          "url": "https://t.co/EUS52vts6i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039748640064070086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038529727703765259",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @babystar1204: 我们私奔吧 https://t.co/EUS52vts6i"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42966,
+        "height": 1280,
+        "media_key": "13_2038529608270958592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038529608270958592/img/EF3ZOycV4YfgPVIt.jpg",
+        "public_metrics": {
+          "view_count": 20
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038529608270958592/vid/avc1/320x568/6LuyaTdjBCg1LbuD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038529608270958592/vid/avc1/480x852/tJE3D8XalGyMP5-4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038529608270958592/vid/avc1/720x1280/2YBEOqRMuKqMIDS0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038529608270958592/pl/1RDYS1h4-fGSd4oP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038529608270958592"
+          ],
+          "media_source_tweet_id": [
+            "2038529727703765259"
+          ]
+        },
+        "author_id": "1757979305379041280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2039748640064070086",
+        "created_at": "2026-04-02T16:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039748640064070086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1888428282192039936",
+              "start": 3,
+              "username": "babystar1204"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EUS52vts6i",
+              "end": 47,
+              "expanded_url": "https://x.com/babystar1204/status/2038529727703765259/video/1",
+              "media_key": "13_2038529608270958592",
+              "start": 24,
+              "url": "https://t.co/EUS52vts6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039748640064070086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038529727703765259",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @babystar1204: 我们私奔吧 https://t.co/EUS52vts6i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038529608270958592"
+          ]
+        },
+        "author_id": "1888428282192039936",
+        "conversation_id": "2038529727703765259",
+        "created_at": "2026-03-30T08:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038529727703765259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EUS52vts6i",
+              "end": 29,
+              "expanded_url": "https://x.com/babystar1204/status/2038529727703765259/video/1",
+              "media_key": "13_2038529608270958592",
+              "start": 6,
+              "url": "https://t.co/EUS52vts6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038529727703765259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们私奔吧 https://t.co/EUS52vts6i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "二世🦖 ｜od🐛｜同类互fo｜请不要和我吵架｜💊od:https://t.co/wr5AXtXm9B｜✈️我推的机场https://t.co/JGTZUvvZcp｜🐣喜欢的人:@babystar1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "babystar1204"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 50,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 27,
+                "url": "https://t.co/wr5AXtXm9B"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 58,
+                "url": "https://t.co/JGTZUvvZcp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032874743129583616/IHMulhSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 222,
+          "like_count": 323,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T03:22:53.000Z",
+        "description": "@dddlg28 :3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "dddlg28"
+              }
+            ]
+          }
+        },
+        "id": "1888428282192039936",
+        "location": "终焉审判   降临",
+        "name": "生日快杀",
+        "pinned_tweet_id": "2036080668086845524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037382250741035008/ItkWlcKb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 47,
+          "like_count": 449,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 262
+        },
+        "username": "babystar1204",
+        "verified": false
+      }
+    ]
+  }
+}

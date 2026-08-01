@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757979305379041280",
+    "conversation_id": "2035762612236165390",
+    "created_at": "2026-03-22T16:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T17:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035762612236165390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bcgame/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/bcgame/status/1995783245594538409",
+          "start": 5,
+          "url": "https://t.co/R1cp8tBNO4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035762612236165390",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995783245594538409",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是人我吃 https://t.co/R1cp8tBNO4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757979305379041280",
+        "conversation_id": "2035762612236165390",
+        "created_at": "2026-03-22T16:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T17:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035762612236165390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bcgame/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/bcgame/status/1995783245594538409",
+              "start": 5,
+              "url": "https://t.co/R1cp8tBNO4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035762612236165390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995783245594538409",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是人我吃 https://t.co/R1cp8tBNO4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1306070606056546305",
+        "conversation_id": "1995783245594538409",
+        "created_at": "2025-12-02T09:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T10:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995783245594538409"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995783245594538409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 5467634,
+          "like_count": 1497,
+          "quote_count": 16,
+          "reply_count": 94,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "即刻注册BC GAME！无尽奖励等你来领！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "二世🦖 ｜od🐛｜同类互fo｜请不要和我吵架｜💊od:https://t.co/wr5AXtXm9B｜✈️我推的机场https://t.co/JGTZUvvZcp｜🐣宝宝:@babystar1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 86,
+                "username": "babystar1204"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 50,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 27,
+                "url": "https://t.co/wr5AXtXm9B"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 58,
+                "url": "https://t.co/JGTZUvvZcp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032874743129583616/IHMulhSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 184,
+          "like_count": 171,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 44
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-16T03:21:23.000Z",
+        "description": "Multi-award winning betting platform. Gambleaware | 18+\n@bcgamecoin | @bcgamesportswin | @bcpokerofficial | @bcgamelive | @bcgamein",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "bcgamecoin"
+              },
+              {
+                "end": 86,
+                "start": 70,
+                "username": "bcgamesportswin"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "bcpokerofficial"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "bcgamelive"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "bcgamein"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bc.game",
+                "end": 23,
+                "expanded_url": "https://bc.game/",
+                "start": 0,
+                "url": "https://t.co/ljtG4OCpDZ"
+              }
+            ]
+          }
+        },
+        "id": "1306070606056546305",
+        "location": "Curacao",
+        "name": "BC.GAME",
+        "pinned_tweet_id": "2032674653723049992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029826030509400064/j47EGQQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384006,
+          "following_count": 237,
+          "like_count": 1950,
+          "listed_count": 281,
+          "media_count": 4449,
+          "tweet_count": 8190
+        },
+        "url": "https://t.co/ljtG4OCpDZ",
+        "username": "bcgame",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

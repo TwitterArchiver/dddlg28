@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052316033621565440"
+      ],
+      "media_source_tweet_id": [
+        "2052316049337631021"
+      ]
+    },
+    "author_id": "1757979305379041280",
+    "conversation_id": "2052317383252172945",
+    "created_at": "2026-05-07T09:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052317383252172945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1833795907470704640",
+          "start": 3,
+          "username": "lynn_m57596"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jKs1f71E9a",
+          "end": 45,
+          "expanded_url": "https://x.com/lynn_m57596/status/2052316049337631021/photo/1",
+          "media_key": "3_2052316033621565440",
+          "start": 22,
+          "url": "https://t.co/jKs1f71E9a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052317383252172945",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052316049337631021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lynn_m57596: Fine https://t.co/jKs1f71E9a"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2052317383252172945].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2052317383252172945",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2052317383252172945"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052316033621565440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtKjxbaIAAnyqo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052316033621565440"
+          ]
+        },
+        "author_id": "1833795907470704640",
+        "conversation_id": "2052316049337631021",
+        "created_at": "2026-05-07T09:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052316049337631021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jKs1f71E9a",
+              "end": 28,
+              "expanded_url": "https://x.com/lynn_m57596/status/2052316049337631021/photo/1",
+              "media_key": "3_2052316033621565440",
+              "start": 5,
+              "url": "https://t.co/jKs1f71E9a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052316049337631021",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Fine https://t.co/jKs1f71E9a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "二世🦖 ｜od🐛｜同类互fo｜请不要和我吵架｜💊od:https://t.co/wr5AXtXm9B｜✈️我推的机场https://t.co/JGTZUvvZcp｜😽心爱的猫:@babystar1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "babystar1204"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 50,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 27,
+                "url": "https://t.co/wr5AXtXm9B"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 58,
+                "url": "https://t.co/JGTZUvvZcp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032874743129583616/IHMulhSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 271,
+          "like_count": 540,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T09:13:22.000Z",
+        "description": "😖纯社恐大鼠欢迎各位找我聊天，双相偶尔发癫🖐️😭🖐️\n💊+互fo欢迎\n本账号含有：💊｜负能量碎碎念｜丑画｜偶尔色色；不接受请左转",
+        "id": "1833795907470704640",
+        "name": "软鼠",
+        "pinned_tweet_id": "2012454215260733710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021277904718659584/8sN9IxiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 110,
+          "like_count": 1482,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 256
+        },
+        "username": "lynn_m57596",
+        "verified": false
+      }
+    ]
+  }
+}

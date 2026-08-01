@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077004079717552128"
+      ]
+    },
+    "author_id": "1757979305379041280",
+    "conversation_id": "2077004087825256585",
+    "created_at": "2026-07-14T12:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077004087825256585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vj6BuKSkbb",
+          "end": 37,
+          "expanded_url": "https://x.com/dddlg28/status/2077004087825256585/photo/1",
+          "media_key": "3_2077004079717552128",
+          "start": 14,
+          "url": "https://t.co/vj6BuKSkbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077004087825256585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我最喜欢711的打火机了！ https://t.co/vj6BuKSkbb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077004079717552128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMANMCaEAAyJwM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077004079717552128"
+          ]
+        },
+        "author_id": "1757979305379041280",
+        "conversation_id": "2077004087825256585",
+        "created_at": "2026-07-14T12:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077004087825256585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vj6BuKSkbb",
+              "end": 37,
+              "expanded_url": "https://x.com/dddlg28/status/2077004087825256585/photo/1",
+              "media_key": "3_2077004079717552128",
+              "start": 14,
+              "url": "https://t.co/vj6BuKSkbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077004087825256585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最喜欢711的打火机了！ https://t.co/vj6BuKSkbb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "二世🦖 ｜od🐛｜同类互fo｜请不要和我吵架｜💊od:https://t.co/wr5AXtXm9B｜✈️我推的机场https://t.co/JGTZUvvZcp｜😽心爱的猫:@babystar1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "babystar1204"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 50,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 27,
+                "url": "https://t.co/wr5AXtXm9B"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 58,
+                "url": "https://t.co/JGTZUvvZcp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059321850065526785/90RZmF8u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 248,
+          "like_count": 565,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 116
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false
+      }
+    ]
+  }
+}

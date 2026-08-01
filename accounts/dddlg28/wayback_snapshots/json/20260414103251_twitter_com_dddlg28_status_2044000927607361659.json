@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044000924734238720"
+      ]
+    },
+    "author_id": "1757979305379041280",
+    "conversation_id": "2044000927607361659",
+    "created_at": "2026-04-14T10:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T11:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044000927607361659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1888428282192039936",
+          "start": 1,
+          "username": "babystar1204"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jTsocWzy1U",
+          "end": 38,
+          "expanded_url": "https://x.com/dddlg28/status/2044000927607361659/photo/1",
+          "media_key": "3_2044000924734238720",
+          "start": 15,
+          "url": "https://t.co/jTsocWzy1U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044000927607361659",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "💕@babystar1204 https://t.co/jTsocWzy1U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2044000924734238720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3AAu9asAAjaoS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044000924734238720"
+          ]
+        },
+        "author_id": "1757979305379041280",
+        "conversation_id": "2044000927607361659",
+        "created_at": "2026-04-14T10:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044000927607361659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1888428282192039936",
+              "start": 1,
+              "username": "babystar1204"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jTsocWzy1U",
+              "end": 38,
+              "expanded_url": "https://x.com/dddlg28/status/2044000927607361659/photo/1",
+              "media_key": "3_2044000924734238720",
+              "start": 15,
+              "url": "https://t.co/jTsocWzy1U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044000927607361659",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "💕@babystar1204 https://t.co/jTsocWzy1U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "二世🦖 ｜od🐛｜同类互fo｜请不要和我吵架｜💊od:https://t.co/wr5AXtXm9B｜✈️我推的机场https://t.co/JGTZUvvZcp｜😽心爱的猫:@babystar1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "babystar1204"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 50,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 27,
+                "url": "https://t.co/wr5AXtXm9B"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 58,
+                "url": "https://t.co/JGTZUvvZcp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032874743129583616/IHMulhSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 232,
+          "like_count": 427,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 79
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T03:22:53.000Z",
+        "description": "他只是⋯轻轻地、慢慢地、摸着小小的猫。\n猫从没感觉过这样的暖，比太阳晒在背上还要安心。\n猫悄悄地想，\n这个暖暖的东西@dddlg28 可以当我的家吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "dddlg28"
+              }
+            ]
+          }
+        },
+        "id": "1888428282192039936",
+        "location": "终焉审判   降临",
+        "name": "生日快杀",
+        "pinned_tweet_id": "2036080668086845524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037382250741035008/ItkWlcKb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 52,
+          "like_count": 510,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 301
+        },
+        "username": "babystar1204",
+        "verified": false
+      }
+    ]
+  }
+}

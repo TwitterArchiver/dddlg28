@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757979305379041280",
+    "conversation_id": "2060686979772395935",
+    "created_at": "2026-05-30T11:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T12:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060686979772395935"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gold_bihu/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/gold_bihu/status/2060686603170001369",
+          "start": 16,
+          "url": "https://t.co/JfNAjSg6XE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060686979772395935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060686603170001369",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "麦电子烟给老婆买baby第一天 https://t.co/JfNAjSg6XE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 581,
+        "media_key": "3_2060686600368218113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkHi4ha4AESMUq.jpg",
+        "width": 1575
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757979305379041280",
+        "conversation_id": "2060686979772395935",
+        "created_at": "2026-05-30T11:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060686979772395935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gold_bihu/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/gold_bihu/status/2060686603170001369",
+              "start": 16,
+              "url": "https://t.co/JfNAjSg6XE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060686979772395935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060686603170001369",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "麦电子烟给老婆买baby第一天 https://t.co/JfNAjSg6XE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060686600368218113"
+          ]
+        },
+        "author_id": "1778696847563104256",
+        "conversation_id": "2060686603170001369",
+        "created_at": "2026-05-30T11:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060686603170001369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Tw5PA6kfE",
+              "end": 38,
+              "expanded_url": "https://x.com/gold_bihu/status/2060686603170001369/photo/1",
+              "media_key": "3_2060686600368218113",
+              "start": 15,
+              "url": "https://t.co/9Tw5PA6kfE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060686603170001369",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😸@KKKillua0707 https://t.co/9Tw5PA6kfE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "二世🦖 ｜od🐛｜同类互fo｜请不要和我吵架｜💊od:https://t.co/wr5AXtXm9B｜✈️我推的机场https://t.co/JGTZUvvZcp｜😽心爱的猫:@babystar1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "babystar1204"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 50,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 27,
+                "url": "https://t.co/wr5AXtXm9B"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 58,
+                "url": "https://t.co/JGTZUvvZcp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059321850065526785/90RZmF8u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 260,
+          "like_count": 567,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 116
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "od🐛｜同类互fo｜喜欢一切有意思的东西｜💊od:https://t.co/S8S0zEK1mv｜万幸在今天已经鱼龙混杂的互联网里，总有一个角落容许我们遇见:@babystar1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 79,
+                "username": "babystar1204"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 48,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 25,
+                "url": "https://t.co/S8S0zEK1mv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl30",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl30",
+                "start": 0,
+                "url": "https://t.co/KYuxfpJQLx"
+              }
+            ]
+          }
+        },
+        "id": "1778696847563104256",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2024004502555074878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009205027009859584/M8J2SLDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 513,
+          "like_count": 11585,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 2640
+        },
+        "url": "https://t.co/KYuxfpJQLx",
+        "username": "gold_bihu",
+        "verified": false
+      }
+    ]
+  }
+}

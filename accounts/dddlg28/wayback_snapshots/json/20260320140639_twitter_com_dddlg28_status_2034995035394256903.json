@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757979305379041280",
+    "conversation_id": "2034995035394256903",
+    "created_at": "2026-03-20T14:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T15:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034995035394256903"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/babystar1204/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/babystar1204/status/2034993176147370250",
+          "start": 8,
+          "url": "https://t.co/DwwpsqcHdT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034995035394256903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034993176147370250",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爱上了一个神… https://t.co/DwwpsqcHdT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1742,
+        "media_key": "3_2034993155662389248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2_fkOboAAVpu8.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757979305379041280",
+        "conversation_id": "2034995035394256903",
+        "created_at": "2026-03-20T14:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T15:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034995035394256903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/babystar1204/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/babystar1204/status/2034993176147370250",
+              "start": 8,
+              "url": "https://t.co/DwwpsqcHdT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034995035394256903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034993176147370250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爱上了一个神… https://t.co/DwwpsqcHdT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034993155662389248"
+          ]
+        },
+        "author_id": "1888428282192039936",
+        "conversation_id": "2034993176147370250",
+        "created_at": "2026-03-20T13:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T14:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034993176147370250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9DVDsZwbCy",
+              "end": 27,
+              "expanded_url": "https://x.com/babystar1204/status/2034993176147370250/photo/1",
+              "media_key": "3_2034993155662389248",
+              "start": 4,
+              "url": "https://t.co/9DVDsZwbCy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034993176147370250",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是神 https://t.co/9DVDsZwbCy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "二世🦖 ｜od🐛｜同类互fo｜🚫不卖任何东西｜请不要和我吵架｜💊od:https://t.co/wr5AXtXm9B｜✈️我推的机场https://t.co/JGTZUvvZcp｜🐣宝宝:@babystar1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 94,
+                "username": "babystar1204"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 58,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 35,
+                "url": "https://t.co/wr5AXtXm9B"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 89,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 66,
+                "url": "https://t.co/JGTZUvvZcp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032874743129583616/IHMulhSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 183,
+          "like_count": 145,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T03:22:53.000Z",
+        "description": "在变了样的世界里，唯一一个和我有共同回忆的人 @dddlg28 ｜贡的主人｜ ONE OK ROCK全肯定｜请求互fo🫶🏻｜匿名提问https://t.co/MoZOh7d0Lu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "dddlg28"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/szl281",
+                "end": 89,
+                "expanded_url": "https://ngl.link/szl281",
+                "start": 66,
+                "url": "https://t.co/MoZOh7d0Lu"
+              }
+            ]
+          }
+        },
+        "id": "1888428282192039936",
+        "name": "我今天回去就跟你妈把婚离了",
+        "pinned_tweet_id": "1962081609215324262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034188935388348416/MYHZY1ry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 44,
+          "like_count": 331,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 352
+        },
+        "username": "babystar1204",
+        "verified": false
+      }
+    ]
+  }
+}
