@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757979305379041280",
+    "conversation_id": "2086320951675990388",
+    "created_at": "2026-08-09T05:17:31.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T06:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086320951675990388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 48,
+          "id": "1720665183188922368",
+          "start": 43,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/qijieya/status…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/qijieya/status/2085678011173802118",
+          "start": 49,
+          "url": "https://t.co/wgcfff6oq7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086320951675990388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085678011173802118",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请帮我找出这个账号上表现出的一件很明显但号主很可能没意识到的事情，并对此进行详细说明\n@grok https://t.co/wgcfff6oq7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757979305379041280",
+        "conversation_id": "2086320951675990388",
+        "created_at": "2026-08-09T05:17:31.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086320951675990388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "1720665183188922368",
+              "start": 43,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/qijieya/status…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/qijieya/status/2085678011173802118",
+              "start": 49,
+              "url": "https://t.co/wgcfff6oq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086320951675990388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085678011173802118",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请帮我找出这个账号上表现出的一件很明显但号主很可能没意识到的事情，并对此进行详细说明\n@grok https://t.co/wgcfff6oq7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605724119156260866",
+        "conversation_id": "2085678011173802118",
+        "created_at": "2026-08-07T10:42:42.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085678011173802118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "1720665183188922368",
+              "start": 43,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xijiu_/status/…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/xijiu_/status/2085385423053025619",
+              "start": 49,
+              "url": "https://t.co/YijBgtjDij"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085678011173802118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1025,
+          "like_count": 4,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085385423053025619",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请帮我找出这个账号上表现出的一件很明显但号主很可能没意识到的事情，并对此进行详细说明\n@grok https://t.co/YijBgtjDij"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "二世🦖 ｜od🐛｜同类互fo｜请不要和我吵架｜💊od:https://t.co/wr5AXtXm9B｜✈️我推的机场https://t.co/JGTZUvvZcp｜诗顶号中",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 50,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 27,
+                "url": "https://t.co/wr5AXtXm9B"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 58,
+                "url": "https://t.co/JGTZUvvZcp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086320951675990388",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757979305379041280/1773510084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077619556290613248/0HCDYJXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 249,
+          "like_count": 516,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 125
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086320971426697538",
+        "name": "Grok",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8943301,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7301,
+          "media_count": 9238889,
+          "tweet_count": 135011753
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-22T00:37:37.000Z",
+        "description": "阿宅 / 敲代码的🔍 /  重度抑郁 / 最强的邪王真眼🌸 / 你可以叫我祈杰 / ACGN 爱好者✨ / DE BG4VW 🛰 / 我真的很想有人和我说话😣 / 🏳️‍⚧️MTF / 联系方式https://t.co/F230Ex3GxN / ❤️@BD3RER / OM91 / 戳链接了解更多↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 125,
+                "username": "BD3RER"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/qijieya",
+                "end": 120,
+                "expanded_url": "http://t.me/qijieya",
+                "start": 97,
+                "url": "https://t.co/F230Ex3GxN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qijieya.cn/about",
+                "end": 23,
+                "expanded_url": "https://qijieya.cn/about",
+                "start": 0,
+                "url": "https://t.co/FpIiClNZI4"
+              }
+            ]
+          }
+        },
+        "id": "1605724119156260866",
+        "is_identity_verified": false,
+        "location": "你家里",
+        "most_recent_tweet_id": "2086320522191864312",
+        "name": "锦木祈杰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1605724119156260866/1766807734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041346924171952128/9liNcTpp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 340,
+          "like_count": 11534,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 1004
+        },
+        "url": "https://t.co/FpIiClNZI4",
+        "username": "qijieya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
