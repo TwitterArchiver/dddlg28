@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096555560036655104"
+      ]
+    },
+    "author_id": "1757979305379041280",
+    "conversation_id": "2096555568530153942",
+    "created_at": "2026-09-06T11:06:14.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T12:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096555568530153942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OCKusmgOEk",
+          "end": 67,
+          "expanded_url": "https://x.com/dddlg28/status/2096555568530153942/photo/1",
+          "media_key": "3_2096555560036655104",
+          "start": 44,
+          "url": "https://t.co/OCKusmgOEk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096555568530153942",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096555560036655104"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以前不知道冻馄饨可以直接下锅，放化了全粘盘子上拿不下来，气得我一把抓起在厨房里到处乱扔 https://t.co/OCKusmgOEk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1555,
+        "media_key": "3_2096555560036655104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRh2LH_a4AAPiyF.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096555560036655104"
+          ]
+        },
+        "author_id": "1757979305379041280",
+        "conversation_id": "2096555568530153942",
+        "created_at": "2026-09-06T11:06:14.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096555568530153942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OCKusmgOEk",
+              "end": 67,
+              "expanded_url": "https://x.com/dddlg28/status/2096555568530153942/photo/1",
+              "media_key": "3_2096555560036655104",
+              "start": 44,
+              "url": "https://t.co/OCKusmgOEk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096555568530153942",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096555560036655104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前不知道冻馄饨可以直接下锅，放化了全粘盘子上拿不下来，气得我一把抓起在厨房里到处乱扔 https://t.co/OCKusmgOEk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "原二世🦖 (已复活) 我在：@gold_bihu｜诗顶号中@dlgsq0701",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "gold_bihu"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "dlgsq0701"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096555568530153942",
+        "name": "多拉贡（诗织顶号版）",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757979305379041280/1773510084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095384130569814016/cNsYMFLP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 238,
+          "like_count": 516,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

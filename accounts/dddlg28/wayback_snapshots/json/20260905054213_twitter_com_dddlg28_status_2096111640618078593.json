@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096111631130570752"
+      ]
+    },
+    "author_id": "1757979305379041280",
+    "conversation_id": "2096111640618078593",
+    "created_at": "2026-09-05T05:42:13.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T06:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096111640618078593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2033892007937249284",
+          "start": 1,
+          "username": "Overdose_Aether"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fVJ3Xo7nB1",
+          "end": 47,
+          "expanded_url": "https://x.com/dddlg28/status/2096111640618078593/photo/1",
+          "media_key": "3_2096111631130570752",
+          "start": 24,
+          "url": "https://t.co/fVJ3Xo7nB1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096111640618078593",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096111631130570752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@@Overdose_Aether \n还我几把 https://t.co/fVJ3Xo7nB1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096111631130570752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRbibD8aMAAD67o.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096111631130570752"
+          ]
+        },
+        "author_id": "1757979305379041280",
+        "conversation_id": "2096111640618078593",
+        "created_at": "2026-09-05T05:42:13.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T06:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096111640618078593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2033892007937249284",
+              "start": 1,
+              "username": "Overdose_Aether"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fVJ3Xo7nB1",
+              "end": 47,
+              "expanded_url": "https://x.com/dddlg28/status/2096111640618078593/photo/1",
+              "media_key": "3_2096111631130570752",
+              "start": 24,
+              "url": "https://t.co/fVJ3Xo7nB1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096111640618078593",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096111631130570752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@@Overdose_Aether \n还我几把 https://t.co/fVJ3Xo7nB1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "原二世🦖 (已复活) 我在：@gold_bihu｜诗顶号中@dlgsq0701",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "gold_bihu"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "dlgsq0701"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096111640618078593",
+        "name": "多拉贡（诗织顶号版）",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757979305379041280/1773510084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095384130569814016/cNsYMFLP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 239,
+          "like_count": 515,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 120
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-17T13:04:15.000Z",
+        "description": "小糖铺子，分享好吃的糖🍬 tg分享频道https://t.co/oEbYzOtKnL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/AetherLAB01",
+                "end": 42,
+                "expanded_url": "https://t.me/AetherLAB01",
+                "start": 19,
+                "url": "https://t.co/oEbYzOtKnL"
+              }
+            ]
+          }
+        },
+        "id": "2033892007937249284",
+        "is_identity_verified": false,
+        "location": "Carina",
+        "most_recent_tweet_id": "2095947435600449948",
+        "name": "⚛️Aether 🅻🅰🅱🍬",
+        "pinned_tweet_id": "2084547066630652016",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033892007937249284/1782409141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070200170030215168/CGg-EHDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 73,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "Overdose_Aether",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

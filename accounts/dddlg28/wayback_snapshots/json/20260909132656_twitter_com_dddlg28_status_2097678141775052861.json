@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097678132874817536"
+      ]
+    },
+    "author_id": "1757979305379041280",
+    "conversation_id": "2097607612472983827",
+    "created_at": "2026-09-09T13:26:56.000Z",
+    "display_text_range": [
+      12,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T14:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097678141775052861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2066164606213795840",
+          "start": 0,
+          "username": "HelloLLQuQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XzLMBlr8tQ",
+          "end": 68,
+          "expanded_url": "https://x.com/dddlg28/status/2097678141775052861/photo/1",
+          "media_key": "3_2097678132874817536",
+          "start": 45,
+          "url": "https://t.co/XzLMBlr8tQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097678141775052861",
+    "in_reply_to_user_id": "2066164606213795840",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097678132874817536"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097677329216737574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HelloLLQuQ 一直以为银行的工作很轻松，没想到是这样的……感谢小人机披露一切… https://t.co/XzLMBlr8tQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1175,
+        "media_key": "3_2097678132874817536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxzJdsbsAAtzEG.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097678132874817536"
+          ]
+        },
+        "author_id": "1757979305379041280",
+        "conversation_id": "2097607612472983827",
+        "created_at": "2026-09-09T13:26:56.000Z",
+        "display_text_range": [
+          12,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097678141775052861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2066164606213795840",
+              "start": 0,
+              "username": "HelloLLQuQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XzLMBlr8tQ",
+              "end": 68,
+              "expanded_url": "https://x.com/dddlg28/status/2097678141775052861/photo/1",
+              "media_key": "3_2097678132874817536",
+              "start": 45,
+              "url": "https://t.co/XzLMBlr8tQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097678141775052861",
+        "in_reply_to_user_id": "2066164606213795840",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097678132874817536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097677329216737574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HelloLLQuQ 一直以为银行的工作很轻松，没想到是这样的……感谢小人机披露一切… https://t.co/XzLMBlr8tQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066164606213795840",
+        "conversation_id": "2097607612472983827",
+        "created_at": "2026-09-09T13:23:42.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097677329216737574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1757979305379041280",
+              "start": 0,
+              "username": "dddlg28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097677329216737574",
+        "in_reply_to_user_id": "1757979305379041280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097650816199135729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dddlg28 🥹🥹哇啊好宝。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "原二世🦖 (已复活) 我在：@gold_bihu｜诗顶号中@dlgsq0701",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "gold_bihu"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "dlgsq0701"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097678141775052861",
+        "name": "多拉贡（诗织顶号版）",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757979305379041280/1773510084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095384130569814016/cNsYMFLP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 242,
+          "like_count": 520,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T14:31:05.000Z",
+        "description": "透明画师-我会在这里补档我的画和发一些日常👉小红书指路：https://t.co/2McKGqqrDj\n需要回关请私信我（我怕打扰到你）\n可以向我提问👉 https://t.co/TJeeFih2YN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/73AamQYIbZG",
+                "end": 51,
+                "expanded_url": "https://xhslink.com/m/73AamQYIbZG",
+                "start": 28,
+                "url": "https://t.co/2McKGqqrDj"
+              },
+              {
+                "display_url": "ngl.link/%E7%BD%91%E7%B…",
+                "end": 100,
+                "expanded_url": "https://ngl.link/%E7%BD%91%E7%BB%9C%E4%BA%BA%E6%9C%BA",
+                "start": 77,
+                "url": "https://t.co/TJeeFih2YN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/73AamQYIbZG",
+                "end": 23,
+                "expanded_url": "https://xhslink.com/m/73AamQYIbZG",
+                "start": 0,
+                "url": "https://t.co/2McKGqqrDj"
+              }
+            ]
+          }
+        },
+        "id": "2066164606213795840",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2097677567964934543",
+        "name": "网络人机",
+        "pinned_tweet_id": "2092593900657725654",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066164606213795840/1786723940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083114299472687104/B2x4dY6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 68,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 203
+        },
+        "url": "https://t.co/2McKGqqrDj",
+        "username": "HelloLLQuQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
