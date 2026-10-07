@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757979305379041280",
+    "conversation_id": "2100772895861665848",
+    "created_at": "2026-09-18T02:24:23.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T03:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100772895861665848"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2100772895861665848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "同事你这个死了妈的婊子我要桶死你全家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757979305379041280",
+        "conversation_id": "2100772895861665848",
+        "created_at": "2026-09-18T02:24:23.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T03:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100772895861665848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100772895861665848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同事你这个死了妈的婊子我要桶死你全家"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "电子烟有售\n✝️风早巽✝️\n备用号@dlgsq0701",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "dlgsq0701"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100772895861665848",
+        "name": "多拉贡（诗织顶号版）",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757979305379041280/1789456746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098796229996273665/vNneb8zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 241,
+          "like_count": 526,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

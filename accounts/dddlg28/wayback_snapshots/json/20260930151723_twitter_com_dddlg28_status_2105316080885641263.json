@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757979305379041280",
+    "conversation_id": "2105316080885641263",
+    "created_at": "2026-09-30T15:17:23.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T16:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105316080885641263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gold_bihu/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/gold_bihu/status/2103474157254214131",
+          "start": 18,
+          "url": "https://t.co/0PaeTQBeym"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105316080885641263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103474157254214131",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真跟我妈半夜出来挖包了…难以置信 https://t.co/0PaeTQBeym"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757979305379041280",
+        "conversation_id": "2105316080885641263",
+        "created_at": "2026-09-30T15:17:23.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T16:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105316080885641263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gold_bihu/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/gold_bihu/status/2103474157254214131",
+              "start": 18,
+              "url": "https://t.co/0PaeTQBeym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105316080885641263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103474157254214131",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真跟我妈半夜出来挖包了…难以置信 https://t.co/0PaeTQBeym"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778696847563104256",
+        "conversation_id": "2103169683377791487",
+        "created_at": "2026-09-25T13:18:14.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T14:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103474157254214131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1757979305379041280",
+              "start": 0,
+              "username": "dddlg28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103474157254214131",
+        "in_reply_to_user_id": "1757979305379041280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103169683377791487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dddlg28 妮儿 那咱不要了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "电子烟有售\n✝️风早巽✝️\n备用号@dlgsq0701",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "dlgsq0701"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105316080885641263",
+        "name": "电子烟迷阿诗",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757979305379041280/1789456746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104954981019435008/dRMSbdGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 240,
+          "like_count": 538,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 171
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "电子烟🈶｜od🐛｜同类互fo｜喜欢一切有意思的东西｜💊od:https://t.co/S8S0zEK1mv｜万幸在今天已经鱼龙混杂的互联网里，总有一个角落容许我们遇见:@dlgsq0701",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "dlgsq0701"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 53,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 30,
+                "url": "https://t.co/S8S0zEK1mv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl30",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl30",
+                "start": 0,
+                "url": "https://t.co/KYuxfpJQLx"
+              }
+            ]
+          }
+        },
+        "id": "1778696847563104256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105308951776768060",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2024004502555074878",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778696847563104256/1761665630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009205027009859584/M8J2SLDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 600,
+          "like_count": 11385,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 2716
+        },
+        "url": "https://t.co/KYuxfpJQLx",
+        "username": "gold_bihu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

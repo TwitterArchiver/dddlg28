@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106389220730531840"
+      ]
+    },
+    "author_id": "1757979305379041280",
+    "conversation_id": "2106389230612361496",
+    "created_at": "2026-10-03T14:21:42.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T15:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106389230612361496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EI9dBURkPm",
+          "end": 35,
+          "expanded_url": "https://x.com/dddlg28/status/2106389230612361496/photo/1",
+          "media_key": "3_2106389220730531840",
+          "start": 12,
+          "url": "https://t.co/EI9dBURkPm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106389230612361496",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106389220730531840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在旋转，像在坐这个。 https://t.co/EI9dBURkPm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_2106389220730531840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtl1gxa8AAjszb.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106389220730531840"
+          ]
+        },
+        "author_id": "1757979305379041280",
+        "conversation_id": "2106389230612361496",
+        "created_at": "2026-10-03T14:21:42.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106389230612361496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EI9dBURkPm",
+              "end": 35,
+              "expanded_url": "https://x.com/dddlg28/status/2106389230612361496/photo/1",
+              "media_key": "3_2106389220730531840",
+              "start": 12,
+              "url": "https://t.co/EI9dBURkPm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106389230612361496",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106389220730531840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在旋转，像在坐这个。 https://t.co/EI9dBURkPm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "电子烟有售\n✝️风早巽✝️\n备用号@dlgsq0701",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "dlgsq0701"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106389230612361496",
+        "name": "电子烟迷阿诗",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757979305379041280/1789456746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104954981019435008/dRMSbdGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 243,
+          "like_count": 543,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

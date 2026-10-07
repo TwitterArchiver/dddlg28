@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757979305379041280",
+    "conversation_id": "2105338346541383860",
+    "created_at": "2026-09-30T16:45:51.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T17:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105338346541383860"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2105338346541383860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "口干、恶心、咳嗽、嗓子眼里感觉很苦\n我在疯狂喝水，我在疯狂喝水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757979305379041280",
+        "conversation_id": "2105338346541383860",
+        "created_at": "2026-09-30T16:45:51.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T17:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105338346541383860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105338346541383860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "口干、恶心、咳嗽、嗓子眼里感觉很苦\n我在疯狂喝水，我在疯狂喝水"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "电子烟有售\n✝️风早巽✝️\n备用号@dlgsq0701",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "dlgsq0701"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105338346541383860",
+        "name": "电子烟迷阿诗",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757979305379041280/1789456746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104954981019435008/dRMSbdGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 240,
+          "like_count": 538,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
